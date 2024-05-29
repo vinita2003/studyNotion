@@ -22,10 +22,10 @@
 # Contact Page
 <img src = "https://raw.githubusercontent.com/vinita2003/studyNotion/master/contact1.png" length = 330 width = 440>
 
-# signup
+# Signup Page
 <img src = "https://raw.githubusercontent.com/vinita2003/studyNotion/master/signup.png" length = 330 width = 440>
 
-# Login
+# Login Page
 <img src = "https://raw.githubusercontent.com/vinita2003/studyNotion/master/login.png" length = 330 width = 440>
 
 # Techs
